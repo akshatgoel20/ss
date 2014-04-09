@@ -32,6 +32,7 @@ import android.content.pm.PackageManager.NameNotFoundException;
  */
 public class SampleAlarmReceiver extends BroadcastReceiver {
 //hello test //
+	//hello test ss1///
     @Override
     public void onReceive(Context context, Intent intent) {
         try {
